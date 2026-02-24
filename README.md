@@ -46,7 +46,7 @@ https://github.com/ArgyropoulosTH/artificial-ear-splint
 
 ###  Medical Traction Chair
 
-Biomechanical therapeutic device with FEA validation. 1st Prize — TU Delft (12 teams)
+Biomechanical therapeutic device with FEA validation. 1st Prize at TU Delft (12 teams)
 
 Tech: SolidWorks • FEA • Biomechanics
 
