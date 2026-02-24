@@ -37,18 +37,18 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Conducted FEA and mechanical testing
 * https://github.com/ArgyropoulosTH/formula-sae-suspension-system
 
-
-###  Cystoscopic Grasper
-* Lead mechanical design for pediatric and adult devices (Class II/IIa)
-* Collaborate with urologists for ergonomic validation
-* Support patent drafting and prototype manufacturing
-
 ###  Lumbar Traction Therapeutic Device
 
 * Designed controlled-traction therapeutic chair
 * Verified structural integrity via FEA
 * Collaborated with physicians for preclinical validation
+* https://github.com/ArgyropoulosTH/medical-traction-chair
 
+
+###  Cystoscopic Grasper
+* Lead mechanical design for pediatric and adult devices (Class II/IIa)
+* Collaborate with urologists for ergonomic validation
+* Support patent drafting and prototype manufacturing
 
 
 ---
