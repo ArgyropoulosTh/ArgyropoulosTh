@@ -8,7 +8,7 @@ I’m particularly passionate about **wearable technologies and digital health i
 ##  Featured Projects
 Below is a list of projects that I have worked with since the start of my Bacherlor's program along with description and links.
 
-###  Personalized Hand Brace with Pressure Sensors
+###  Wearable Hand Brace with Pressure Sensors
 
 * Wearable medical orthosis integrating embedded pressure sensing, 
 * Performed FEA and ISO 14971 risk analysis
