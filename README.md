@@ -12,7 +12,7 @@
 
 Wearable medical orthosis integrating embedded pressure sensing, FEA validation, and additive manufacturing.
 **Tech:** SolidWorks • FEA • Arduino • 3D Printing
-🔗 https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+🔗 https://github.com/ArgyropoulosTH/wearable-hand-brace-pressure-sensors
 
 ---
 
