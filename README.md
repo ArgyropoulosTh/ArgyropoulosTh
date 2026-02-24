@@ -35,6 +35,8 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Designed Formula SAE single-seat race car suspension
 * Led a 4-member engineering team
 * Conducted FEA and mechanical testing
+* https://github.com/ArgyropoulosTH/formula-sae-suspension-system
+
 
 ###  Cystoscopic Grasper
 * Lead mechanical design for pediatric and adult devices (Class II/IIa)
