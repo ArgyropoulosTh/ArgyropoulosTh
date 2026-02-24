@@ -15,14 +15,23 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Validated usability with clinicians
 * https://github.com/ArgyropoulosTH/wearable-hand-brace-pressure-sensors
 
-###  Artificial Ear Splint — Patent No. 1009882
+###  Artificial Ear Splint 
 
 * Invented patient-specific 3D-printed ear splint
 * Published in peer-reviewed journals
 * Presented at international conferences
 
-###  Cystoscopic Grasper (2024 – Present) — *Work in Progress*
+### Iot Devices for water management
 
+* Lead mechanical design and prototyping of IoT-smart systems for water management, ensuring mechanical reliability and regulatory compliance under environmental stress conditions.
+*	Optimizing manufacturability though injection molding, blow molding, vacuum casting and 3D Printing (FDM, SLS, SLA).
+*	Collaborate with electrical and software engineers to integrate mechanical components, sensors, PCBs into cohesive product architectures.
+*	Develop and execute validation protocols (IQ/QQ/PQ), and author technical documentation, BOMs, and assembly instructions.
+
+
+
+* 
+###  Cystoscopic Grasper
 * Lead mechanical design for pediatric and adult devices (Class II/IIa)
 * Collaborate with urologists for ergonomic validation
 * Support patent drafting and prototype manufacturing
@@ -33,7 +42,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Verified structural integrity via FEA
 * Collaborated with physicians for preclinical validation
 
-### 🏎 Democritus Racing Team — Co-Founder & Suspension Chief
+### Democritus Racing Team — Co-Founder & Suspension Chief
 
 * Designed Formula SAE single-seat race car suspension
 * Led a 4-member engineering team
