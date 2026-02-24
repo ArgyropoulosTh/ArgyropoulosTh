@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Athanasios Argyropoulos 👋
 
-<!--
-**ArgyropoulosTh/ArgyropoulosTh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Mechanical & Biomedical Engineer
+📍 Lausanne, Switzerland
+💡 Medical Devices • Wearables • IoT Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🦾 Personalized Hand Brace with Pressure Sensors
+
+Wearable medical orthosis integrating embedded pressure sensing, FEA validation, and additive manufacturing.
+**Tech:** SolidWorks • FEA • Arduino • 3D Printing
+🔗 https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
+
+---
+
+## 🛠 Core Skills
+
+**Mechanical:** SolidWorks, Abaqus, Ansys, FEA, GD&T
+**Medical:** ISO 13485, ISO 14971, MDR
+**Embedded:** Arduino, Sensors, Python
+**Manufacturing:** 3D Printing, Injection Molding
+
+---
+
+## 📫 Connect
+
+* LinkedIn: https://www.linkedin.com/in/thanasis-argyropoulos-a7b0b016b
+* Email: [tha.argyropoulos@gmail.com](mailto:tha.argyropoulos@gmail.com)
