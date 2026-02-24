@@ -1,7 +1,8 @@
 # Athanasios Argyropoulos
 
 Mechanical & Biomedical Engineer
-Medical Devices • Wearables • IoT Systems
+
+• Medical Devices • Wearables • IoT Systems
 
 ---
 
