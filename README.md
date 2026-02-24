@@ -28,10 +28,14 @@ Below is a list of projects that I have worked with since the start of my Bacher
 *	Optimizing manufacturability though injection molding, blow molding, vacuum casting and 3D Printing (FDM, SLS, SLA).
 *	Collaborate with electrical and software engineers to integrate mechanical components, sensors, PCBs into cohesive product architectures.
 *	Develop and execute validation protocols (IQ/QQ/PQ), and author technical documentation, BOMs, and assembly instructions.
+*	https://github.com/ArgyropoulosTH/industrial-iot-water-systems
 
+### Democritus Racing Team — Co-Founder & Suspension Chief
 
+* Designed Formula SAE single-seat race car suspension
+* Led a 4-member engineering team
+* Conducted FEA and mechanical testing
 
-  
 ###  Cystoscopic Grasper
 * Lead mechanical design for pediatric and adult devices (Class II/IIa)
 * Collaborate with urologists for ergonomic validation
@@ -43,11 +47,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Verified structural integrity via FEA
 * Collaborated with physicians for preclinical validation
 
-### Democritus Racing Team — Co-Founder & Suspension Chief
 
-* Designed Formula SAE single-seat race car suspension
-* Led a 4-member engineering team
-* Conducted FEA and mechanical testing
 
 ---
 
