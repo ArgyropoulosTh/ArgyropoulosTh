@@ -28,7 +28,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Published in peer-reviewed journals
 * https://github.com/ArgyropoulosTH/artificial-ear-splint
 
-###  Lumbar Traction Therapeutic Device
+###  Medical Traction Chair
 
 * Designed controlled-traction therapeutic chair
 * Verified structural integrity via FEA
