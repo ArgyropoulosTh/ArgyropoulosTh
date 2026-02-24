@@ -79,7 +79,7 @@ https://github.com/ArgyropoulosTH/formula-sae-suspension-system
 * Mechanical Design: SolidWorks, GD&T, DFM
 * Simulation: Abaqus, Ansys, FEA
 * Medical Standards: ISO 13485, ISO 14971, MDR
-* Manufacturing: 3D Printing, Injection Molding, Vacuum Casting, CNC, Coating
+* Manufacturing: 3D Printing, Injection Molding, Vacuum Casting, CNC, Resin Coating
 * Embedded Systems: Arduino, PCB, Sensors, System Integration
 
 ---
