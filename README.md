@@ -19,7 +19,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 
 * Invented patient-specific 3D-printed ear splint
 * Published in peer-reviewed journals
-* * https://github.com/ArgyropoulosTH/artificial-ear-splint
+* https://github.com/ArgyropoulosTH/artificial-ear-splint
 
 
 ### Iot Devices for water management
