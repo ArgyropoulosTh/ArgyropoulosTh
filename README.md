@@ -16,9 +16,9 @@ Below is a list of projects that I have worked with since the start of my Bacher
 
 ###  Personalized Hand Brace with Pressure Sensors
 
-#Wearable medical orthosis integrating embedded pressure sensing, 
-#Performed FEA and ISO 14971 risk analysis
-#Validated usability with clinicians
+* Wearable medical orthosis integrating embedded pressure sensing, 
+* Performed FEA and ISO 14971 risk analysis
+* Validated usability with clinicians
 🔗 https://github.com/ArgyropoulosTH/wearable-hand-brace-pressure-sensors
 
 ### 👂 Artificial Ear Splint — Patent No. 1009882
