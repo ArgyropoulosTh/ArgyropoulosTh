@@ -21,19 +21,19 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Validated usability with clinicians
 * https://github.com/ArgyropoulosTH/wearable-hand-brace-pressure-sensors
 
-### 👂 Artificial Ear Splint — Patent No. 1009882
+###  Artificial Ear Splint — Patent No. 1009882
 
 * Invented patient-specific 3D-printed ear splint
 * Published in peer-reviewed journals
 * Presented at international conferences
 
-### 🧪 Cystoscopic Grasper (2024 – Present) — *Work in Progress*
+###  Cystoscopic Grasper (2024 – Present) — *Work in Progress*
 
 * Lead mechanical design for pediatric and adult devices (Class II/IIa)
 * Collaborate with urologists for ergonomic validation
 * Support patent drafting and prototype manufacturing
 
-### 🪑 Lumbar Traction Therapeutic Device
+###  Lumbar Traction Therapeutic Device
 
 * Designed controlled-traction therapeutic chair
 * Verified structural integrity via FEA
@@ -47,6 +47,13 @@ Below is a list of projects that I have worked with since the start of my Bacher
 
 ---
 
+##  Core Skills
+
+**Mechanical:** SolidWorks, Abaqus, Ansys, FEA, GD&T
+**Medical:** ISO 13485, ISO 14971, MDR
+**Embedded:** Arduino, Sensors, Python
+**Manufacturing:** 3D Printing, Injection Molding
+
 
 ## 📫 Connect With Me
 
@@ -55,23 +62,5 @@ Below is a list of projects that I have worked with since the start of my Bacher
 
 ---
 
-⭐ *Actively building and sharing projects in medical devices, wearables, and smart mechanical systems.*
-# Hi, I'm Thanasis Argyropoulos 
+*Actively building and sharing projects in medical devices, wearables, and smart mechanical systems.*
 
-
-
----
-
-##  Core Skills
-
-**Mechanical:** SolidWorks, Abaqus, Ansys, FEA, GD&T
-**Medical:** ISO 13485, ISO 14971, MDR
-**Embedded:** Arduino, Sensors, Python
-**Manufacturing:** 3D Printing, Injection Molding
-
----
-
-## 📫 Let's Connect
-
-* LinkedIn: https://www.linkedin.com/in/thanasis-argyropoulos-a7b0b016b
-* Email: [tha.argyropoulos@gmail.com](mailto:tha.argyropoulos@gmail.com)
