@@ -1,4 +1,4 @@
-# Hi, I'm Athanasios Argyropoulos 
+# Hi, I'm Thanasis Argyropoulos 
 
 🔧 Mechanical & Biomedical Engineer
 📍 Lausanne, Switzerland
@@ -25,7 +25,7 @@ Wearable medical orthosis integrating embedded pressure sensing, FEA validation,
 
 ---
 
-## 📫 Connect
+## 📫 Let's Connect
 
 * LinkedIn: https://www.linkedin.com/in/thanasis-argyropoulos-a7b0b016b
 * Email: [tha.argyropoulos@gmail.com](mailto:tha.argyropoulos@gmail.com)
