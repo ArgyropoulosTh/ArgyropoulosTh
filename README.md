@@ -1,4 +1,4 @@
-# Hi, I'm Athanasios Argyropoulos 👋
+# Hi, I'm Athanasios Argyropoulos 
 
 🔧 Mechanical & Biomedical Engineer
 📍 Lausanne, Switzerland
@@ -6,9 +6,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🦾 Personalized Hand Brace with Pressure Sensors
+###  Personalized Hand Brace with Pressure Sensors
 
 Wearable medical orthosis integrating embedded pressure sensing, FEA validation, and additive manufacturing.
 **Tech:** SolidWorks • FEA • Arduino • 3D Printing
@@ -16,7 +16,7 @@ Wearable medical orthosis integrating embedded pressure sensing, FEA validation,
 
 ---
 
-## 🛠 Core Skills
+##  Core Skills
 
 **Mechanical:** SolidWorks, Abaqus, Ansys, FEA, GD&T
 **Medical:** ISO 13485, ISO 14971, MDR
