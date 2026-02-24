@@ -15,7 +15,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Validated usability with clinicians
 * https://github.com/ArgyropoulosTH/wearable-hand-brace-pressure-sensors
 
-###  Cystoscopic Grasper
+###  Paidiatric Cystoscopic Grasper
 
 * Lead mechanical design for pediatric and adult devices (Class II/IIa)
 * Collaborate with urologists for ergonomic validation
