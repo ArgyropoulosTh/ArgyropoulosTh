@@ -1,9 +1,3 @@
-🔧 Mechanical & Biomedical Engineer
-📍 Lausanne, Switzerland
-💡 Medical Devices • Wearables • IoT Systems
-
----
-
 ## About Me
 
 Multidisciplinary Mechanical and Biomedical Engineer with hands-on experience in the design, development, and validation of medical and IoT devices. I specialize in translating concepts into manufacturable, compliant products under ISO 13485 and MDR standards.
