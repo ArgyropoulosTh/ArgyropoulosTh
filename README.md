@@ -18,7 +18,7 @@ Mechanical and Biomedical Engineer specializing in the design, development, and 
 
 Patient-specific orthosis integrating embedded sensing and FEA validation.
 
-Tech: SolidWorks • FEA • Arduino • 3D Printing
+Tech: SolidWorks • FEA • 3D Printing • Sensor Integration
 
 https://github.com/ArgyropoulosTH/wearable-hand-brace-pressure-sensors
 
