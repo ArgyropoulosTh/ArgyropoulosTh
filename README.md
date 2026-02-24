@@ -30,7 +30,7 @@ Minimally invasive surgical instrument developed with senior urologists.
 
 Focus: Pediatric miniaturization • Ergonomics • ISO-aligned development
 
-https://github.com/ArgyropoulosTH/Pediatric-Cystoscopic-Grasper
+https://github.com/ArgyropoulosTH/pediatric-cystoscopic-grasper
 
 ---
 
@@ -58,7 +58,7 @@ https://github.com/ArgyropoulosTH/medical-traction-chair
 
 ### IoT Devices for Water Management
 
-ndustrial IoT hardware development and DFM optimization for harsh environments.
+Industrial IoT hardware development and DFM optimization for harsh environments.
 
 Tech: SolidWorks • FEA • IP68 • 3D Printing • Injection Molding
 
