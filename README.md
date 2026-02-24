@@ -31,7 +31,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 
 
 
-* 
+  
 ###  Cystoscopic Grasper
 * Lead mechanical design for pediatric and adult devices (Class II/IIa)
 * Collaborate with urologists for ergonomic validation
@@ -55,7 +55,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 
 * Mechanical: SolidWorks, Abaqus, Ansys, FEA, GD&T, DFM
 * Medical: ISO 13485, ISO 14971, MDR, IP68
-* Embedded: Arduino, Sensors, Soldering, PCBs
+* Embedded: Arduino, Sensors, PCBs
 * Manufacturing:** 3D Printing, Injection Molding,
 
 
