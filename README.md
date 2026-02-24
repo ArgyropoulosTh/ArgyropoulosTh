@@ -49,6 +49,8 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Lead mechanical design for pediatric and adult devices (Class II/IIa)
 * Collaborate with urologists for ergonomic validation
 * Support patent drafting and prototype manufacturing
+* https://github.com/ArgyropoulosTH/Pediatric-Cystoscopic-Grasper
+
 
 
 ---
