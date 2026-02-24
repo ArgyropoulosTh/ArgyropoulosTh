@@ -1,79 +1,75 @@
-## About Me
+# Athanasios Argyropoulos
 
-Multidisciplinary Mechanical and Biomedical Engineer with hands-on experience in the design, development, and validation of medical and IoT devices. I specialize in translating concepts into manufacturable, compliant products under ISO 13485 and MDR standards.
+Mechanical & Biomedical Engineer
+Medical Devices • Wearables • IoT Systems
 
-I’m particularly passionate about **wearable technologies and digital health innovations** that improve patient outcomes.
+---
 
+##  About Me
+
+Mechanical and Biomedical Engineer specializing in the design, development, and validation of medical and IoT devices. Experienced in multidisciplinary collaboration with clinicians and engineers to deliver manufacturable, regulation-ready solutions.
+
+---
 
 ##  Featured Projects
-Below is a list of projects that I have worked with since the start of my Bacherlor's program along with description and links.
 
 ###  Wearable Hand Brace with Pressure Sensors
 
-* Wearable medical orthosis integrating embedded pressure sensing, 
-* Performed FEA and ISO 14971 risk analysis
-* Validated usability with clinicians
-* https://github.com/ArgyropoulosTH/wearable-hand-brace-pressure-sensors
+Patient-specific orthosis integrating embedded sensing and FEA validation.
+**Tech:** SolidWorks • FEA • Arduino • 3D Printing
+https://github.com/ArgyropoulosTH/wearable-hand-brace-pressure-sensors
 
-###  Paidiatric Cystoscopic Grasper
+---
 
-* Lead mechanical design for pediatric and adult devices (Class II/IIa)
-* Collaborate with urologists for ergonomic validation
-* Support patent drafting and prototype manufacturing
-* https://github.com/ArgyropoulosTH/Pediatric-Cystoscopic-Grasper
+###  Pediatric Cystoscopic Grasper 
 
-###  Artificial Ear Splint 
+Minimally invasive surgical instrument developed with senior urologists.
+**Focus:** Pediatric miniaturization • Ergonomics • ISO-aligned development
+https://github.com/ArgyropoulosTH/Pediatric-Cystoscopic-Grasper
 
-* Invented patient-specific 3D-printed ear splint
-* Published in peer-reviewed journals
-* https://github.com/ArgyropoulosTH/artificial-ear-splint
+---
+
+###  Artificial Ear Splint
+
+Patent 1009882 • Published work • Patient-specific 3D printing
+https://github.com/ArgyropoulosTH/artificial-ear-splint
+
+---
 
 ###  Medical Traction Chair
 
-* Designed controlled-traction therapeutic chair
-* Verified structural integrity via FEA
-* Collaborated with physicians for preclinical validation
-* https://github.com/ArgyropoulosTH/medical-traction-chair
-
-
-### Industrial IOT Water Systems
-
-* Lead mechanical design and prototyping of IoT-smart systems for water management, ensuring mechanical reliability and regulatory compliance under environmental stress conditions.
-*	Optimizing manufacturability though injection molding, blow molding, vacuum casting and 3D Printing (FDM, SLS, SLA).
-*	Collaborate with electrical and software engineers to integrate mechanical components, sensors, PCBs into cohesive product architectures.
-*	Develop and execute validation protocols (IQ/QQ/PQ), and author technical documentation, BOMs, and assembly instructions.
-*	https://github.com/ArgyropoulosTH/industrial-iot-water-systems
-
-### Suspension System for FSAE
-
-* Designed Formula SAE single-seat race car suspension
-* Led a 4-member engineering team
-* Conducted FEA and mechanical testing
-* https://github.com/ArgyropoulosTH/formula-sae-suspension-system
-
-
-
-
-
-
-
+1st Prize — TU Delft (12 teams)
+Biomechanical therapeutic device with FEA validation
+https://github.com/ArgyropoulosTH/medical-traction-chair
 
 ---
 
-##  Core Skills
+### IoT Devices for Water Management
 
-* Mechanical: SolidWorks, Abaqus, Ansys, FEA, GD&T, DFM
-* Medical: ISO 13485, ISO 14971, MDR, IP68
-* Embedded: Arduino, Sensors, PCBs
-* Manufacturing:** 3D Printing, Injection Molding, Coating
-
-
-## Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/thanasis-argyropoulos-a7b0b016b
-* Email: [tha.argyropoulos@gmail.com](mailto:tha.argyropoulos@gmail.com)
+Industrial IoT hardware development & DFM optimization
+https://github.com/ArgyropoulosTH/industrial-iot-water-systems
 
 ---
 
-*Actively building and sharing projects in medical devices, wearables, and smart mechanical systems.*
+### Formula SAE Suspension System
 
+Co-Founder & Suspension Chief
+Vehicle dynamics, FEA & team leadership
+https://github.com/ArgyropoulosTH/formula-sae-suspension-system
+
+---
+
+##  Core Competencies
+
+**Mechanical Design:** SolidWorks, GD&T, DFM
+**Simulation:** Abaqus, Ansys, FEA
+**Medical Standards:** ISO 13485, ISO 14971, MDR
+**Manufacturing:** 3D Printing, Injection Molding, Vacuum Casting, CNC, Coating
+**Embedded Systems:** Arduino, PCB, Sensors, System Integration,
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/thanasis-argyropoulos-a7b0b016b
+Email: [tha.argyropoulos@gmail.com](mailto:tha.argyropoulos@gmail.com)
