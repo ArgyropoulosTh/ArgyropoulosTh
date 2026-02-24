@@ -36,7 +36,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * https://github.com/ArgyropoulosTH/medical-traction-chair
 
 
-### Iot Devices for Water Management
+### Industrial IOT Water Systems
 
 * Lead mechanical design and prototyping of IoT-smart systems for water management, ensuring mechanical reliability and regulatory compliance under environmental stress conditions.
 *	Optimizing manufacturability though injection molding, blow molding, vacuum casting and 3D Printing (FDM, SLS, SLA).
