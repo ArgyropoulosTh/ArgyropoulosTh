@@ -2,13 +2,13 @@
 
 Mechanical & Biomedical Engineer
 
-• Medical Devices • Wearables • IoT Systems
+• Medical Devices • Wearables • Mechatronics
 
 ---
 
 ##  About Me
 
-Mechanical and Biomedical Engineer specializing in the design, development, and validation of medical and IoT devices. Experienced in multidisciplinary collaboration with clinicians and engineers to deliver manufacturable, regulation-ready solutions. Designing next-generation medical and wearable devices from concept to validation.
+Mechanical and Biomedical Engineer specializing in the design, development, and validation of medical devices and smart systems. Experienced in multidisciplinary collaboration with clinicians and engineers to deliver manufacturable, regulation-ready solutions. Designing next-generation medical and wearable devices from concept to validation.
 
 ---
 
