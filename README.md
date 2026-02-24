@@ -30,7 +30,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 *	Develop and execute validation protocols (IQ/QQ/PQ), and author technical documentation, BOMs, and assembly instructions.
 *	https://github.com/ArgyropoulosTH/industrial-iot-water-systems
 
-### Co-Founder & Suspension Chief
+### Formula student suspension system
 
 * Designed Formula SAE single-seat race car suspension
 * Led a 4-member engineering team
