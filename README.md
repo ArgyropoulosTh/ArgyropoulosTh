@@ -22,7 +22,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * https://github.com/ArgyropoulosTH/artificial-ear-splint
 
 
-### Iot Devices for water management
+### Iot Devices for Water Management
 
 * Lead mechanical design and prototyping of IoT-smart systems for water management, ensuring mechanical reliability and regulatory compliance under environmental stress conditions.
 *	Optimizing manufacturability though injection molding, blow molding, vacuum casting and 3D Printing (FDM, SLS, SLA).
@@ -30,7 +30,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 *	Develop and execute validation protocols (IQ/QQ/PQ), and author technical documentation, BOMs, and assembly instructions.
 *	https://github.com/ArgyropoulosTH/industrial-iot-water-systems
 
-### Suspension system for formula student
+### Suspension System for FSAE
 
 * Designed Formula SAE single-seat race car suspension
 * Led a 4-member engineering team
