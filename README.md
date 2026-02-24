@@ -53,10 +53,10 @@ Below is a list of projects that I have worked with since the start of my Bacher
 
 ##  Core Skills
 
-**Mechanical:** SolidWorks, Abaqus, Ansys, FEA, GD&T
-**Medical:** ISO 13485, ISO 14971, MDR
-**Embedded:** Arduino, Sensors, Python
-**Manufacturing:** 3D Printing, Injection Molding
+* Mechanical:** SolidWorks, Abaqus, Ansys, FEA, GD&T
+* Medical:** ISO 13485, ISO 14971, MDR
+*Embedded:** Arduino, Sensors
+* Manufacturing:** 3D Printing, Injection Molding,
 
 
 ## 📫 Connect With Me
