@@ -61,7 +61,7 @@ Below is a list of projects that I have worked with since the start of my Bacher
 * Manufacturing:** 3D Printing, Injection Molding, Coating
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/thanasis-argyropoulos-a7b0b016b
 * Email: [tha.argyropoulos@gmail.com](mailto:tha.argyropoulos@gmail.com)
